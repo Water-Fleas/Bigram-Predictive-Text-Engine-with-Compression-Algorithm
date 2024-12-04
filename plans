@@ -1,0 +1,17 @@
+bigram model
+
+{
+    cat:{the:x
+        a:y
+        that:z}
+    
+    the:{when:0.a}
+}
+
+preprocessing done?
+when creating tries apostrophe words should should compress as if there was no apostrophe but record with the apostrophe
+
+
+read corpus data into data structure to train
+- all corpuses k = number of corpuses
+
